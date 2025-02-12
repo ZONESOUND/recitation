@@ -1,6 +1,6 @@
 import io from 'socket.io-client'
 //import {serverHost} from './config'
-const serverHost = 'https://stage-effect-server1.herokuapp.com';
+const serverHost = 'https://stage-effect-server1-d32b6e8a2ea6.herokuapp.com/';
 let defaultSocket;
 let isSocketConnect = false;
 
